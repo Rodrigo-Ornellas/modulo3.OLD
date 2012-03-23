@@ -1,0 +1,20 @@
+[
+  {
+    "pk": 1, 
+    "model": "entrega.cliente", 
+    "fields": {
+      "fone": "2sdjsidjaosdoi", 
+      "email": "rodrigo@rodrigo.com", 
+      "nome": "Rodrigo"
+    }
+  }, 
+  {
+    "pk": 2, 
+    "model": "entrega.cliente", 
+    "fields": {
+      "fone": "7777-9999", 
+      "email": "", 
+      "nome": "Fulano de Tal"
+    }
+  }
+]
