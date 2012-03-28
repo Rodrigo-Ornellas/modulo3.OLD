@@ -1,0 +1,40 @@
+[
+  {
+    "pk": 1, 
+    "model": "entrega.atleta", 
+    "fields": {
+      "nome": "", 
+      "cpf": "", 
+      "email": "", 
+      "dob": "", 
+      "fone": "",
+      "logradouro": "",
+      "numero": "",      
+      "complemento": "",      
+      "cidade": "",      
+      "estado": "",      
+      "cep": "",      
+      "tipo": "",
+      "observacao": ""      
+    }
+  }, 
+  {
+    "pk": 1, 
+    "model": "entrega.atleta", 
+    "fields": {
+      "nome": "", 
+      "cpf": "", 
+      "email": "", 
+      "dob": "", 
+      "fone": "",
+      "logradouro": "",
+      "numero": "",      
+      "complemento": "",      
+      "cidade": "",      
+      "estado": "",      
+      "cep": "",      
+      "tipo": "",
+      "observacao": ""      
+    }
+  }
+]
